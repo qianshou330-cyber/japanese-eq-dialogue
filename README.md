@@ -9,7 +9,6 @@
 | [餐饮店工作](categories/restaurant-work.md) | 对方提到在餐饮店工作时，体谅忙时的辛苦，接着聊工作内容。 |
 | [兼职领班](categories/shift-lead.md) | 对方说自己是兼职领班时，回应他的责任和付出，或自然地聊到排班。 |
 | [礼貌关怀](categories/polite-care.md) | 想向对方道一声辛苦时，可以选择详细的回应或简短的聊天版本。 |
-| [账号核对与身份验证](categories/account-verification.md) | 核对收款账号，并引导对方通过官方应用办理身份验证。 |
 
 ## 给读取话术的 AI
 
